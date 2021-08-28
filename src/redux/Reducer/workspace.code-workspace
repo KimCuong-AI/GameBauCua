@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "trankimcuong5",
+			"path": "C:\\Users\\Admin\\Downloads\\trankimcuongtonghop\\trankimcuong5\\trankimcuong5"
+		},
+		{
+			"name": "duanlon",
+			"path": "..\\..\\..\\..\\..\\..\\DuAnLon\\duanlon"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Archive-20210714"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CyberPhoneDark",
+		"git.ignoreLimitWarning": true,
+		"git.enabled": false
+	}
+}
