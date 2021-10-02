@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import BaiTapGameBauCua from './BaiTapTongHop/BaiTapGameBauCua/BaiTapGameBauCua';
-import ConCon from './ConCon';
-
+import BaiTapGameBauCua from './GameBauCua/BaiTapGameBauCua';
 function App() {
   return (
     <div >
