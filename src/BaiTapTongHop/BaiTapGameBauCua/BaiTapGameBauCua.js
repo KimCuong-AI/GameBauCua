@@ -10,8 +10,6 @@ export default function BaiTapGameBauCua(props) {
             <div className='row'>
                 <div className='col-8'>
                     <DanhSachCuoc />
-                    
-                    
                 </div>
                 <div className='col-4'>
                     <DanhSachXucXac />
